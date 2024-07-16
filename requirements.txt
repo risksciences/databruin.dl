@@ -1,0 +1,9 @@
+jupyterlab
+pandas
+numpy
+scipy
+matlablib
+scikit-learn
+duckdb
+jax[cpu]
+keras
